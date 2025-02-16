@@ -26,7 +26,7 @@ Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/unit-converter.git
+git clone https://github.com/Labreo/unit-converter.git
 cd unit-converter
 
 Create a virtual environment:
